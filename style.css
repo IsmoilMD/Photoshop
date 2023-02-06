@@ -15,6 +15,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
  form{
     width: 300px;
